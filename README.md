@@ -1,4 +1,4 @@
-# LZero RTL Project
+# Chisel TPU Study
 
 고려대학교 컴퓨터 아키텍처 동아리 **LZero** 활동에서 작성한 Chisel 기반 NPU RTL 저장소이다.
 NPU custom instruction의 `rs1` decoding, global stall 생성·분배, TPU-style systolic array MatMul 연산기를 다룬다.
